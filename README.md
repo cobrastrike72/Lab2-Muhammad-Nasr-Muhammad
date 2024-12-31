@@ -107,7 +107,7 @@ The `git rebase` command is used to integrate changes from one branch into anoth
 Git rebase is a command that lets users integrate changes from one branch to another. Once the action is complete, the logs are modified. Git rebase was developed to overcome merging’s shortcomings, specifically regarding logs.
 
 ### Difference between rebase and merge:
-![Merge Vs Rebase](./Merge Vs rebase.png)
+![Merge Vs Rebase](./MergeVsrebase.png)
 
 ### Example:
 ![How Merge and Rebase work](./mergeVSreshape.jpeg)
